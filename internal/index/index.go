@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"time"
 
-	"opencoredata.org/vaultWalker/internal/heuristics"
-	"opencoredata.org/vaultWalker/internal/vault"
+	"github.com/OpenCoreData/vaultWalker/internal/heuristics"
+	"github.com/OpenCoreData/vaultWalker/internal/vault"
 )
 
 // PathInspection function

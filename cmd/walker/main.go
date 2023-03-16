@@ -13,11 +13,11 @@ import (
 
 	gominio "github.com/minio/minio-go"
 	"github.com/rs/xid"
-	"opencoredata.org/vaultWalker/internal/index"
-	"opencoredata.org/vaultWalker/internal/minio"
-	"opencoredata.org/vaultWalker/internal/report"
-	"opencoredata.org/vaultWalker/internal/vault"
-	"opencoredata.org/vaultWalker/pkg/utils"
+	"github.com/OpenCoreData/vaultWalker/internal/index"
+	"github.com/OpenCoreData/vaultWalker/internal/minio"
+	"github.com/OpenCoreData/vaultWalker/internal/report"
+	"github.com/OpenCoreData/vaultWalker/internal/vault"
+	"github.com/OpenCoreData/vaultWalker/pkg/utils"
 )
 
 var minioVal, portVal, accessVal, secretVal, bucketVal, dirVal string

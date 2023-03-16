@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	myminio "../internal/minio"
+	myminio "github.com/OpenCoreData/vaultWalker/internal/minio"
 	minio "github.com/minio/minio-go"
 )
 

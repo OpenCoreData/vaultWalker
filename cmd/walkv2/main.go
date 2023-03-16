@@ -9,8 +9,8 @@ import (
 	"runtime/pprof"
 
 	"github.com/spf13/viper"
-	"opencoredata.org/vaultWalker/internal/index"
-	_ "opencoredata.org/vaultWalker/internal/vault"
+	"github.com/OpenCoreData/vaultWalker/internal/index"
+	_ "github.com/OpenCoreData/vaultWalker/internal/vault"
 )
 
 var viperVal string

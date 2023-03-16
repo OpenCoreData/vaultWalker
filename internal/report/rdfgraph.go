@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/knakk/rdf"
-	"opencoredata.org/vaultWalker/internal/vault"
+	"github.com/OpenCoreData/vaultWalker/internal/vault"
 
-	"opencoredata.org/vaultWalker/pkg/utils"
+	"github.com/OpenCoreData/vaultWalker/pkg/utils"
 )
 
 // TODO
